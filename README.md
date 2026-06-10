@@ -1,17 +1,6 @@
 
-<h3 align="center">Hi, I'm Jhon Mark</h3>
 
-###
-
-<h2 align="left">About</h2>
-
-###
-
-<p align="left">- I’m Jhon Mark (Arcz).<br>- I’m Currently Upscaling my skills<br>-  I’m learning JavaScript and React.<br>- I’m looking to collaborate on Creating project/Websites.<br>- How to reach me malupajhonmark3035@gmail.com</p>
-
-###
-
-<h3 align="left">Technologies</h3>
+<h1 align="left">Technologies</h1>
 
 ###
 
